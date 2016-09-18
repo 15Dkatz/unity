@@ -1,0 +1,17 @@
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/davidkatz/Coding/unity/GoHome/obj/Debug/Assembly-CSharp.dll
+/Users/davidkatz/Coding/unity/GoHome/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/UnityEngine.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/UnityEditor.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Mono.Cecil.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Unity.DataContract.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/davidkatz/Coding/unity/GoHome/Temp/bin/Debug/Mono.Cecil.Mdb.dll
